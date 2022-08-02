@@ -3,3 +3,4 @@ liniaDeDupa
 LiniaATreia
 LiniaAPatra
 LiniaACincea
+LiniaASasea
